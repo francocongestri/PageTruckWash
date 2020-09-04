@@ -20,6 +20,8 @@
             }
         }
 }*/
+
+//Verificar var a = document.getElementById("id").value;
 function main(){
     var intentos = 0;
     var ganaste = false;
